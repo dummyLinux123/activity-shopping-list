@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+
+}
+
+.clickable {
+  display: flex;
+}
